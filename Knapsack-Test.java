@@ -6,7 +6,7 @@ public class Knapsack {
 	
 	public static void main(String[] args) {
 	
-		int[] weight = {60, 30, 55, 30, 70, 48};
+		int[] weight = {60, 30, 55, 30, 70, 48};;
 		int[] value = {60, 30, 55, 30, 70, 48};
 		
 		// in actual 2 dimensional knapsack problem there will be some value
